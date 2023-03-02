@@ -1,6 +1,6 @@
 This repo consists of a simple Chatbot virtual assistant driver code, where the hotel booking details for customer can be done using  a chatbot which converts human voice input 
 into text. please feel free to deep dive into the code and let me know if any enhancements can be done.
 
-main file - NLP chattbot tts
+main file - NLP chattbot tts (As of now, i can't able to run it in jupyter notebook, so I have gone with Spyder. you can try running it in pycharm and other IDE if want)
 Sample MongoDB entry - Customer_details_chatbot_VA.json
 
