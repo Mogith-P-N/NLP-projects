@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6400b7ee1c56c0201bd89f86"
+  },
+  "name": "Mohit",
+  "contact": "882 56 19388",
+  "address": "3399 tnhb Colony villapuram Madurai",
+  "id": "driving licence",
+  "roomtype": "AC room",
+  "arrival": "24 March",
+  "checkout": "26 March"
+},{
+  "_id": {
+    "$oid": "6400b8711c56c0201bd89f88"
+  },
+  "name": "Raja",
+  "contact": "9790 123 321",
+  "address": "56 Bakers Street New England",
+  "id": "Aadhar card",
+  "roomtype": "NA",
+  "arrival": "26 April",
+  "checkout": "28 April"
+}]
