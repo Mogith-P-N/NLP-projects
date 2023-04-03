@@ -1,1 +1,10 @@
+Resume/CV classifier using NLP
+
+This repository consists of sourcecode of the project resume/cv classifier using NLP, where I have used opensource NLP package spacy to vectorize my text data and fitted 
+a classification model to predict/classify the job role of the candidate. 
+
+1) NLP_resumeclassifier.ipynb --> file contains the main code where our dataset has been cleaned and feature extraction is done.
+2) Resume_parser_drivercode.ipynb --> This code is used for extracting contents from any pdf/docx file. In our case it is resume and it returns the contents as string.
+3) UpdatedResumeDataSet.csv --> dataset used for this project
+4) resumedata.txt --> Output of resumeparser drivercode program.
 
